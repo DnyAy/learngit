@@ -1,7 +1,5 @@
-这个是master的内容
+这是第三个分支的练习
 
 嘤嘤嘤嘤嘤嘤嘤嘤Git is a distributed version control system.hahahaha
 Git is free software.
 
-这个是dev2的内容
-嘤嘤嘤嘤嘤嘤嘤嘤
